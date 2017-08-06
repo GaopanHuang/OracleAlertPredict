@@ -40,7 +40,11 @@ def time2num(seq):
   year = int(seq[20:24])
   diff_time = (year-2001)*year_int+(year-2001)/4*diff_day + month[seq[4:7]] + (day-1)*diff_day + hour*3600 + min*60 +sec
 
-  return diff_time
+  month_index = {'Jan':'01', 'Feb':'02', 'Mar':'03','Apr':'04','May':'05','Jun':'06','Jul':'07','Aug':'08','Sep':'09','Oct':'10','Nov':'11','Dec':'12'}
+  month = month_index[seq[4:7]]
+  abs_time = seq[20:24]+month+seq[8:10]+seq[11:13]+seq[14:16]+seq[17:19]
+
+  return int(abs_time),diff_time
 
 def process():
   global dirpath
@@ -50,7 +54,7 @@ def process():
     if not filenames:
       continue
 
-    fw = open('alert_hist.info','w')
+    fw = open('alert_hist.csv','w')
     csvw=csv.writer(fw)
     filenames.sort()
     #print filenames
@@ -70,10 +74,10 @@ def process():
 
         if log_time.search(line):#search log time in one line by re module
           if startflag == 1:
-            logrst = np.r_[timenum,hist]
+            logrst = np.r_[abstime,timenum,hist]
             logrst = logrst.astype(int)
             csvw.writerow(logrst)
-          timenum = time2num(line)
+          abstime, timenum = time2num(line)
           startflag = 1
           flag = 1
         elif startflag == 1:
@@ -81,9 +85,8 @@ def process():
             flag = 0
             hist = np.zeros(60)
           hist += str2hist(line)
-      hist = hist.astype(int)
-      logrst = np.r_[timenum,hist]
-      logrest = logrst.astype(int)
+      logrst = np.r_[abstime,timenum,hist]
+      logrst = logrst.astype(int)
       csvw.writerow(logrst)
     fw.close()
 
