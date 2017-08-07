@@ -1,11 +1,11 @@
 """
-transforming alter log to the histogram of characters with 10+26+24 bins,
+transforming alter log to the histogram of characters with 10+26+23 bins,
 where 26 for all lower characters, 10 for numbers, 24 for specific syymbols
 
 the characters are as follows:
 abcdefghijklmnopqrstuvwxyz
 0123456789
-~!@#$%&*()_-+=}]{[:;?>< 
+~!@#$%&*()_-+=}]{[:;?><
 
 by hgp 2017.7.31
 """
@@ -18,10 +18,10 @@ import numpy as np
 dirpath = '../oracle_alert/a'
 log_time = re.compile('^(Sun|Mon|Tue|Wed|Thu|Fri|Sat)\s(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\s\d{2}\s\d{2}:\d{2}:\d{2}\s\d{4}')
 def str2hist(seq):
-  characters = '0123456789abcdefghijklmnopqrstuvwxyz~!@#$%&*()_-+=}]{[:;?>< '
-  hist = np.zeros(60)
+  characters = '0123456789abcdefghijklmnopqrstuvwxyz~!@#$%&*()_-+=}]{[:;?><'
+  hist = np.zeros(59)
   seq.lower()
-  for i in range(60):
+  for i in range(59):
     hist[i] = seq.count(characters[i])
 
   return hist
@@ -58,7 +58,7 @@ def process():
     csvw=csv.writer(fw)
     filenames.sort()
     #print filenames
-    hist1 = np.zeros(60)
+    hist1 = np.zeros(59)
     hist = hist1.astype(int)
     for fn in filenames:
       fr = open(dirpath+'/'+fn)
@@ -83,7 +83,7 @@ def process():
         elif startflag == 1:
           if flag == 1:
             flag = 0
-            hist = np.zeros(60)
+            hist = np.zeros(59)
           hist += str2hist(line)
       logrst = np.r_[abstime,timenum,hist]
       logrst = logrst.astype(int)
