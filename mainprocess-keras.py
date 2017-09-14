@@ -24,9 +24,11 @@ from keras import backend as K
 data_dim = 59
 timesteps = 250
 predictsteps = 50
-batch_size = 64
-train_step  = 100
-train_num = train_step*batch_size 
+batch_size = 256
+train_steps  = 500
+val_steps = 50
+epochs = 100
+train_num = train_steps*batch_size
 
 input = Input(shape=(timesteps,data_dim), name='input')
 x = LSTM(128, return_sequences=True)(input)
@@ -43,7 +45,6 @@ from keras.utils import plot_model
 plot_model(model, to_file='model2.png',show_shapes=True)
 
 ############################generator for getting data and model fit
-'''
 def get_batch(log_hist, hist_class, i, batch_size):
   x = np.empty(shape=[0,250, 59])  
   y = np.empty(shape=[0,250, 59])
@@ -63,26 +64,39 @@ def get_batch(log_hist, hist_class, i, batch_size):
   return x, y
 
 def generate_train(batch_size):
-  samples = np.loadtxt(open("cluster_hist_500.csv","rb"),delimiter=",")          
+  samples = np.loadtxt(open("cluster_hist_500_2.csv","rb"),delimiter=",")          
   abs_time = samples[:,0]
   diff_time = samples[:,1]                                                       
   hist_class = samples[:,2]
   log_hist = samples[:,3:]
   while 1:
-    steps = train_num/batch_size
-    for i in range(steps):
+    for i in range(train_steps):
       # create numpy arrays of input data
       # and labels, from each line in the file
       x,y = get_batch(log_hist, hist_class, i, batch_size)
       yield (x, y)
+
+def generate_val(batch_size):
+  samples = np.loadtxt(open("cluster_hist_500_2.csv","rb"),delimiter=",",skiprows=train_num)
+  abs_time = samples[:,0]                                                                                                                         
+  diff_time = samples[:,1]                                                                                                                        
+  hist_class = samples[:,2]                                                                                                                       
+  log_hist = samples[:,3:]
+  while 1:
+    for i in range(val_steps):                                                                                                                        
+      # create numpy arrays of input data                                                                                                         
+      # and labels, from each line in the file                                                                                                    
+      x,y = get_batch(log_hist, hist_class, i, batch_size)                                                                                        
+      yield (x, y)                                                                                                                                
 
 #model.summary()
 #print model.layers
 from keras.callbacks import TensorBoard
 tensorboard = TensorBoard(log_dir='./logs', write_images=True,histogram_freq=2, batch_size=batch_size, write_graph=True)
 
-model.fit_generator(generator=generate_train(batch_size),steps_per_epoch=train_step,
-    epochs=20,callbacks=[tensorboard])
+model.fit_generator(generator=generate_train(batch_size),steps_per_epoch=train_steps,
+    epochs=epochs, callbacks=[tensorboard],
+    validation_data=generate_val(batch_size), validation_steps=val_steps)
 '''
 ###############################################
 def get_data():                                               
@@ -118,8 +132,7 @@ print x.shape, y.shape
 from keras.callbacks import TensorBoard                                       
 tensorboard = TensorBoard(log_dir='./logs', write_images=True,histogram_freq=2, batch_size=batch_size, write_graph=True)                                                      
 model.fit(x,y, batch_size=batch_size, epochs=20,callbacks=[tensorboard])
-
-
+'''
 ######################save and load model
 # serialize model to JSON
 model_json = model.to_json()
