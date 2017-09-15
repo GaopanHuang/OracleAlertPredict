@@ -30,6 +30,21 @@ val_steps = 50
 epochs = 100
 train_num = train_steps*batch_size
 
+def pred_acc(y_true, y_pred):
+  class_center = np.loadtxt(open("cluster_center_500.csv","rb"),delimiter=",")
+  y_t = K.reshape(x=y_true[:,-1*predictsteps:,:], shape=(-1,data_dim))
+  y_p = K.reshape(x=y_pred[:,-1*predictsteps:,:], shape=(-1,data_dim))
+  accvar = K.variable(value=np.array([0.]))
+  for i in range(batch_size*predictsteps):
+    samp1 = K.reshape(K.tile(y_t[i],500), shape=(-1,data_dim))
+    t_cls = K.argmin(K.mean(K.square(samp1-class_center),axis=-1))
+    samp2 = K.reshape(K.tile(y_p[i],500), shape=(-1,data_dim))
+    p_cls = K.argmin(K.mean(K.square(samp2-class_center),axis=-1))
+    mn = K.reshape(K.mean(K.equal(t_cls, p_cls)),shape=(1,))
+    accVar = K.update_add(accvar, mn)
+
+  return accvar
+
 input = Input(shape=(timesteps,data_dim), name='input')
 x = LSTM(128, return_sequences=True)(input)
 #x = LSTM(128, return_sequences=True)(x)
@@ -39,7 +54,7 @@ output = Dense(data_dim, activation='relu')(x)
 
 model = Model(inputs=input, outputs=output)
 
-model.compile(optimizer='rmsprop', loss= 'mean_squared_error')
+model.compile(optimizer='rmsprop', loss= 'mean_squared_error', metrics=[pred_acc])
 
 from keras.utils import plot_model                                                                                                                
 plot_model(model, to_file='model2.png',show_shapes=True)
@@ -92,7 +107,7 @@ def generate_val(batch_size):
 #model.summary()
 #print model.layers
 from keras.callbacks import TensorBoard
-tensorboard = TensorBoard(log_dir='./logs', write_images=True,histogram_freq=2, batch_size=batch_size, write_graph=True)
+tensorboard = TensorBoard(log_dir='./logs256', write_images=True,histogram_freq=2, batch_size=batch_size, write_graph=True)
 
 model.fit_generator(generator=generate_train(batch_size),steps_per_epoch=train_steps,
     epochs=epochs, callbacks=[tensorboard],
