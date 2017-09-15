@@ -43,7 +43,7 @@ def pred_acc(y_true, y_pred):
     mn = K.reshape(K.mean(K.equal(t_cls, p_cls)),shape=(1,))
     accvar = K.update_add(accvar, mn)
 
-  return accvar
+  return accvar/(batch_size*predictsteps)
 
 input = Input(shape=(timesteps,data_dim), name='input')
 x = LSTM(128, return_sequences=True)(input)
