@@ -41,7 +41,7 @@ def pred_acc(y_true, y_pred):
     samp2 = K.reshape(K.tile(y_p[i],500), shape=(-1,data_dim))
     p_cls = K.argmin(K.mean(K.square(samp2-class_center),axis=-1))
     mn = K.reshape(K.mean(K.equal(t_cls, p_cls)),shape=(1,))
-    accVar = K.update_add(accvar, mn)
+    accvar = K.update_add(accvar, mn)
 
   return accvar
 
