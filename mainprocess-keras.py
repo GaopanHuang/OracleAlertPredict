@@ -1,6 +1,6 @@
 import os
 #gpu_id = '1,2'
-gpu_id = '3'
+gpu_id = '2'
 os.environ['CUDA_VISIBLE_DEVICES'] = str(gpu_id)
 os.system('echo $CUDA_VISIBLE_DEVICES')
 
@@ -24,26 +24,33 @@ from keras import backend as K
 data_dim = 59
 timesteps = 250
 predictsteps = 50
-batch_size = 256
-train_steps  = 500
-val_steps = 50
-epochs = 100
+batch_size = 64
+train_steps  = 2000
+val_steps = 200
+epochs = 80
 train_num = train_steps*batch_size
 
 def pred_acc(y_true, y_pred):
   class_center = np.loadtxt(open("cluster_center_500.csv","rb"),delimiter=",")
   y_t = K.reshape(x=y_true[:,-1*predictsteps:,:], shape=(-1,data_dim))
   y_p = K.reshape(x=y_pred[:,-1*predictsteps:,:], shape=(-1,data_dim))
-  accvar = K.variable(value=np.array([0.]))
+  y_t1 = K.variable(value=np.array([]))
+  y_p1 = K.variable(value=np.array([]))
+  #accvar = K.variable(value=np.array([0.]))
   for i in range(batch_size*predictsteps):
     samp1 = K.reshape(K.tile(y_t[i],500), shape=(-1,data_dim))
-    t_cls = K.argmin(K.mean(K.square(samp1-class_center),axis=-1))
-    samp2 = K.reshape(K.tile(y_p[i],500), shape=(-1,data_dim))
-    p_cls = K.argmin(K.mean(K.square(samp2-class_center),axis=-1))
-    mn = K.reshape(K.mean(K.equal(t_cls, p_cls)),shape=(1,))
-    accvar = K.update_add(accvar, mn)
+    t_cls = K.reshape(K.cast(K.argmin(K.mean(K.square(samp1-class_center),axis=-1)), K.floatx()),shape=(1,))
+    y_t1 = K.concatenate([y_t1, t_cls], axis=-1)
 
-  return accvar/(batch_size*predictsteps)
+    samp2 = K.reshape(K.tile(y_p[i],500), shape=(-1,data_dim))
+    p_cls =  K.reshape(K.cast(K.argmin(K.mean(K.square(samp2-class_center),axis=-1)), K.floatx()),shape=(1,))
+    y_p1 = K.concatenate([y_p1, p_cls], axis=-1)
+
+    #mn = K.reshape(K.mean(K.equal(t_cls, p_cls)),shape=(1,))
+    #accvar = K.update_add(accvar, mn)
+  #return accvar/(batch_size*predictsteps)
+  return K.cast(K.equal(y_t1, y_p1),K.floatx())
+
 
 input = Input(shape=(timesteps,data_dim), name='input')
 x = LSTM(128, return_sequences=True)(input)
@@ -107,7 +114,7 @@ def generate_val(batch_size):
 #model.summary()
 #print model.layers
 from keras.callbacks import TensorBoard
-tensorboard = TensorBoard(log_dir='./logs256', write_images=True,histogram_freq=2, batch_size=batch_size, write_graph=True)
+tensorboard = TensorBoard(log_dir='./logs64', write_images=True,histogram_freq=2, batch_size=batch_size, write_graph=True)
 
 model.fit_generator(generator=generate_train(batch_size),steps_per_epoch=train_steps,
     epochs=epochs, callbacks=[tensorboard],
@@ -151,10 +158,10 @@ model.fit(x,y, batch_size=batch_size, epochs=20,callbacks=[tensorboard])
 ######################save and load model
 # serialize model to JSON
 model_json = model.to_json()
-with open("model.json", "w") as json_file:
+with open("model-64.json", "w") as json_file:
     json_file.write(model_json)
 # serialize weights to HDF5
-model.save_weights("model.h5")
+model.save_weights("model-64.h5")
 print("Saved model to disk")
  
 ## load json and create model
