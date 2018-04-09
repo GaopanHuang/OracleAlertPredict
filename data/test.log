@@ -1,0 +1,2029 @@
+20160829192449,494105089,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160829192453,494105093,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160829193002,494105402,"Errors in file /hafs/diag/rdbms/dljydb/dljydb/trace/dljydb_j_.trc:
+ORA-: 自动执行作业 ""SGBIZ"".""PKG_EM_STAT_HOUR_JOB"" 出错
+ORA-: 在重新编�?重新验证 SGBIZ.PKG_EM_STAT 时出�?
+ORA-: 在查找远程对�?HXSJ.EM_INFENVDATA@DLSC_HXSJ 时出�?
+ORA-: 递归 SQL 级别  出现错误
+ORA-: invalid username/password; logon denied
+ORA-: 紧接着 line (起自 DLSC_HXSJ)
+"
+20160829193100,494105460,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160829193419,494105659,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160829193423,494105663,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160829193540,494105740,"Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160829193541,494105741,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160829194123,494106083,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160829194219,494106139,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160829194223,494106143,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160829195138,494106698,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160829195142,494106702,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160829195206,494106726,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160829200042,494107242,"Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160829200044,494107244,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160829200050,494107250,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160829200211,494107331,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160829201102,494107862,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160829201106,494107866,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160829201215,494107935,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160829202135,494108495,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160829202138,494108498,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160829202229,494108549,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160829202539,494108739,"Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160829202540,494108740,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160829202850,494108930,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160829202853,494108933,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160829203001,494109001,"Errors in file /hafs/diag/rdbms/dljydb/dljydb/trace/dljydb_j_.trc:
+ORA-: 自动执行作业 ""SGBIZ"".""PKG_EM_STAT_HOUR_JOB"" 出错
+ORA-: 在重新编�?重新验证 SGBIZ.PKG_EM_STAT 时出�?
+ORA-: 在查找远程对�?HXSJ.EM_INFENVDATA@DLSC_HXSJ 时出�?
+ORA-: 递归 SQL 级别  出现错误
+ORA-: invalid username/password; logon denied
+ORA-: 紧接着 line (起自 DLSC_HXSJ)
+"
+20160829203241,494109161,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160829203441,494109281,"Errors in file /hafs/diag/rdbms/dljydb/dljydb/trace/dljydb_ora_.trc  (incident=):
+ORA-: 内部错误代码, 参数: [kollasg:client lob on server], [], [], [], [], [], [], [], [], [], [], []
+Incident details in: /hafs/diag/rdbms/dljydb/dljydb/incident/incdir_/dljydb_ora__i.trc
+"
+20160829203504,494109304,"Use ADRCI or Support Workbench to package the incident.
+See Note . at My Oracle Support for error and packaging details.
+"
+20160829203504,494109304,"Sweep [inc][]: completed
+Sweep [inc][]: completed
+"
+20160829203504,494109304,"Dumping diagnostic data in directory=[cdmp_], requested by (instance=, osid=), summary=[incident=].
+"
+20160829203902,494109542,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160829203906,494109546,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160829204258,494109778,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160829204937,494110177,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160829204943,494110183,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160829205102,494110262,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160829205105,494110265,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160829205305,494110385,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160829205818,494110698,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160829205821,494110701,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160829210337,494111017,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160829210748,494111268,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160829210751,494111271,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160829211338,494111618,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160829211418,494111658,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160829211420,494111660,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160829211500,494111700,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160829211504,494111704,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160829211551,494111751,"Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160829211551,494111751,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160829212145,494112105,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160829212149,494112109,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160829212342,494112222,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160829212921,494112561,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160829212925,494112565,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160829213001,494112601,"Errors in file /hafs/diag/rdbms/dljydb/dljydb/trace/dljydb_j_.trc:
+ORA-: 自动执行作业 ""SGBIZ"".""PKG_EM_STAT_HOUR_JOB"" 出错
+ORA-: 在重新编�?重新验证 SGBIZ.PKG_EM_STAT 时出�?
+ORA-: 在查找远程对�?HXSJ.EM_INFENVDATA@DLSC_HXSJ 时出�?
+ORA-: 递归 SQL 级别  出现错误
+ORA-: invalid username/password; logon denied
+ORA-: 紧接着 line (起自 DLSC_HXSJ)
+"
+20160829213353,494112833,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160829213939,494113179,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160829213944,494113184,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160829214045,494113245,"Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160829214046,494113246,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160829214402,494113442,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160829214755,494113675,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160829214759,494113679,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160829215411,494114051,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160829215807,494114287,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160829215812,494114292,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160829220000,494114400,"Setting Resource Manager plan SCHEDULER[xD]:DEFAULT_MAINTENANCE_PLAN via scheduler window
+Setting Resource Manager plan DEFAULT_MAINTENANCE_PLAN via parameter
+"
+20160829220000,494114400,"Starting background process VKRM
+"
+20160829220000,494114400,"VKRM started with pid=, OS id= 
+"
+20160829220003,494114403,"Begin automatic SQL Tuning Advisor run for special tuning task  ""SYS_AUTO_SQL_TUNING_TASK""
+"
+20160829220231,494114551,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160829220236,494114556,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160829220422,494114662,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160829220433,494114673,"End automatic SQL Tuning Advisor run for special tuning task  ""SYS_AUTO_SQL_TUNING_TASK""
+"
+20160829220643,494114803,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160829220646,494114806,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160829220713,494114833,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160829220718,494114838,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160829221343,494115223,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160829221348,494115228,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160829221425,494115265,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160829222241,494115761,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160829222244,494115764,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160829222430,494115870,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160829223001,494116201,"Errors in file /hafs/diag/rdbms/dljydb/dljydb/trace/dljydb_j_.trc:
+ORA-: 自动执行作业 ""SGBIZ"".""PKG_EM_STAT_HOUR_JOB"" 出错
+ORA-: 在重新编�?重新验证 SGBIZ.PKG_EM_STAT 时出�?
+ORA-: 在查找远程对�?HXSJ.EM_INFENVDATA@DLSC_HXSJ 时出�?
+ORA-: 递归 SQL 级别  出现错误
+ORA-: invalid username/password; logon denied
+ORA-: 紧接着 line (起自 DLSC_HXSJ)
+"
+20160829223056,494116256,"Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160829223057,494116257,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160829223105,494116265,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160829223432,494116472,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160829224108,494116868,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160829224113,494116873,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160829224445,494117085,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160829224947,494117387,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160829224950,494117390,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160829225452,494117692,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160829225515,494117715,"Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160829225516,494117716,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160829225738,494117858,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160829225741,494117861,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160829230500,494118300,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160829230702,494118422,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160829230705,494118425,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160829231529,494118929,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160829231717,494119037,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160829231721,494119041,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160829232032,494119232,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160829232033,494119233,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160829232429,494119469,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160829232433,494119473,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160829232532,494119532,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160829233001,494119801,"Errors in file /hafs/diag/rdbms/dljydb/dljydb/trace/dljydb_j_.trc:
+ORA-: 自动执行作业 ""SGBIZ"".""PKG_EM_STAT_HOUR_JOB"" 出错
+ORA-: 在重新编�?重新验证 SGBIZ.PKG_EM_STAT 时出�?
+ORA-: 在查找远程对�?HXSJ.EM_INFENVDATA@DLSC_HXSJ 时出�?
+ORA-: 递归 SQL 级别  出现错误
+ORA-: invalid username/password; logon denied
+ORA-: 紧接着 line (起自 DLSC_HXSJ)
+"
+20160829233441,494120081,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160829233445,494120085,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160829233537,494120137,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160829234441,494120681,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160829234446,494120686,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160829234535,494120735,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160829234537,494120737,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160829234537,494120737,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160829235202,494121122,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160829235206,494121126,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160829235538,494121338,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160830000129,494121689,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830000133,494121693,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830000541,494121941,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160830001014,494122214,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830001021,494122221,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830001044,494122244,"Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830001044,494122244,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830001628,494122588,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160830001847,494122727,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830001851,494122731,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830002644,494123204,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160830002829,494123309,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830002833,494123313,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830003001,494123401,"Errors in file /hafs/diag/rdbms/dljydb/dljydb/trace/dljydb_j_.trc:
+ORA-: 自动执行作业 ""SGBIZ"".""PKG_EM_STAT_HOUR_JOB"" 出错
+ORA-: 在重新编�?重新验证 SGBIZ.PKG_EM_STAT 时出�?
+ORA-: 在查找远程对�?HXSJ.EM_INFENVDATA@DLSC_HXSJ 时出�?
+ORA-: 递归 SQL 级别  出现错误
+ORA-: invalid username/password; logon denied
+ORA-: 紧接着 line (起自 DLSC_HXSJ)
+"
+20160830003302,494123582,"Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830003303,494123583,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830003538,494123738,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830003545,494123745,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830003645,494123805,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160830003922,494123962,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830003926,494123966,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830004023,494124023,"Errors in file /hafs/diag/rdbms/dljydb/dljydb/trace/dljydb_ora_.trc  (incident=):
+ORA-: 内部错误代码, 参数: [kollasg:client lob on server], [], [], [], [], [], [], [], [], [], [], []
+Incident details in: /hafs/diag/rdbms/dljydb/dljydb/incident/incdir_/dljydb_ora__i.trc
+"
+20160830004051,494124051,"Use ADRCI or Support Workbench to package the incident.
+See Note . at My Oracle Support for error and packaging details.
+"
+20160830004051,494124051,"Sweep [inc][]: completed
+Sweep [inc][]: completed
+"
+20160830004051,494124051,"Dumping diagnostic data in directory=[cdmp_], requested by (instance=, osid=), summary=[incident=].
+"
+20160830004646,494124406,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160830004822,494124502,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830004826,494124506,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830005659,494125019,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160830005822,494125102,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830005827,494125107,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830010001,494125201,"Errors in file /hafs/diag/rdbms/dljydb/dljydb/trace/dljydb_ora_.trc  (incident=):
+ORA-: 内部错误代码, 参数: [kollasg:client lob on server], [], [], [], [], [], [], [], [], [], [], []
+Incident details in: /hafs/diag/rdbms/dljydb/dljydb/incident/incdir_/dljydb_ora__i.trc
+Use ADRCI or Support Workbench to package the incident.
+See Note . at My Oracle Support for error and packaging details.
+"
+20160830010006,494125206,"Sweep [inc][]: completed
+Sweep [inc][]: completed
+"
+20160830010006,494125206,"Dumping diagnostic data in directory=[cdmp_], requested by (instance=, osid=), summary=[incident=].
+"
+20160830010011,494125211,"Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830010012,494125212,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830010016,494125216,"ORA-: Deadlock detected. More info in file /hafs/diag/rdbms/dljydb/dljydb/trace/dljydb_j_.trc.
+"
+20160830010033,494125233,"Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830010034,494125234,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+Thread  cannot allocate new log, sequence 
+Checkpoint not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830010039,494125239,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830010046,494125246,"Thread  cannot allocate new log, sequence 
+Checkpoint not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830010048,494125248,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+Thread  cannot allocate new log, sequence 
+Checkpoint not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830010055,494125255,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830010058,494125258,"Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830010059,494125259,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830010112,494125272,"Thread  cannot allocate new log, sequence 
+Checkpoint not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830010113,494125273,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830010124,494125284,"Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830010125,494125285,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830010714,494125634,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160830011148,494125908,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830011153,494125913,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830011233,494125953,"Errors in file /hafs/diag/rdbms/dljydb/dljydb/trace/dljydb_ora_.trc  (incident=):
+ORA-: 内部错误代码, 参数: [kollasg:client lob on server], [], [], [], [], [], [], [], [], [], [], []
+Incident details in: /hafs/diag/rdbms/dljydb/dljydb/incident/incdir_/dljydb_ora__i.trc
+Use ADRCI or Support Workbench to package the incident.
+See Note . at My Oracle Support for error and packaging details.
+"
+20160830011237,494125957,"Sweep [inc][]: completed
+Sweep [inc][]: completed
+"
+20160830011238,494125958,"Dumping diagnostic data in directory=[cdmp_], requested by (instance=, osid=), summary=[incident=].
+"
+20160830011719,494126239,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160830012204,494126524,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830012208,494126528,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830012541,494126741,"Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830012542,494126742,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830012731,494126851,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160830012907,494126947,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830012911,494126951,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830013001,494127001,"Errors in file /hafs/diag/rdbms/dljydb/dljydb/trace/dljydb_j_.trc:
+ORA-: 自动执行作业 ""SGBIZ"".""PKG_EM_STAT_HOUR_JOB"" 出错
+ORA-: 在重新编�?重新验证 SGBIZ.PKG_EM_STAT 时出�?
+ORA-: 在查找远程对�?HXSJ.EM_INFENVDATA@DLSC_HXSJ 时出�?
+ORA-: 递归 SQL 级别  出现错误
+ORA-: invalid username/password; logon denied
+ORA-: 紧接着 line (起自 DLSC_HXSJ)
+"
+20160830013733,494127453,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160830013913,494127553,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830013917,494127557,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830014819,494128099,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160830014840,494128120,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830014844,494128124,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830015034,494128234,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830015037,494128237,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830015515,494128515,"Errors in file /hafs/diag/rdbms/dljydb/dljydb/trace/dljydb_ora_.trc  (incident=):
+ORA-: 内部错误代码, 参数: [kollasg:client lob on server], [], [], [], [], [], [], [], [], [], [], []
+Incident details in: /hafs/diag/rdbms/dljydb/dljydb/incident/incdir_/dljydb_ora__i.trc
+Use ADRCI or Support Workbench to package the incident.
+See Note . at My Oracle Support for error and packaging details.
+"
+20160830015519,494128519,"Sweep [inc][]: completed
+Sweep [inc][]: completed
+"
+20160830015519,494128519,"Dumping diagnostic data in directory=[cdmp_], requested by (instance=, osid=), summary=[incident=].
+"
+20160830015619,494128579,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830015623,494128583,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830015856,494128736,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160830020000,494128800,"Closing scheduler window
+Closing Resource Manager plan via scheduler window
+Clearing Resource Manager plan via parameter
+"
+20160830020011,494128811,"Errors in file /hafs/diag/rdbms/dljydb/dljydb/trace/dljydb_ora_.trc  (incident=):
+ORA-: 内部错误代码, 参数: [kollasg:client lob on server], [], [], [], [], [], [], [], [], [], [], []
+Incident details in: /hafs/diag/rdbms/dljydb/dljydb/incident/incdir_/dljydb_ora__i.trc
+"
+20160830020015,494128815,"Dumping diagnostic data in directory=[cdmp_], requested by (instance=, osid=), summary=[incident=].
+Use ADRCI or Support Workbench to package the incident.
+See Note . at My Oracle Support for error and packaging details.
+"
+20160830020015,494128815,"Sweep [inc][]: completed
+Sweep [inc][]: completed
+"
+20160830020033,494128833,"ALTER SYSTEM ARCHIVE LOG
+"
+20160830020033,494128833,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830020125,494128885,"Errors in file /hafs/diag/rdbms/dljydb/dljydb/trace/dljydb_ora_.trc  (incident=):
+ORA-: 内部错误代码, 参数: [kollasg:client lob on server], [], [], [], [], [], [], [], [], [], [], []
+Incident details in: /hafs/diag/rdbms/dljydb/dljydb/incident/incdir_/dljydb_ora__i.trc
+Use ADRCI or Support Workbench to package the incident.
+See Note . at My Oracle Support for error and packaging details.
+"
+20160830020132,494128892,"Sweep [inc][]: completed
+Sweep [inc][]: completed
+"
+20160830020132,494128892,"Dumping diagnostic data in directory=[cdmp_], requested by (instance=, osid=), summary=[incident=].
+"
+20160830020907,494129347,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160830021050,494129450,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830021055,494129455,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830021538,494129738,"Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830021539,494129739,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830021827,494129907,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830021831,494129911,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830021916,494129956,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160830021939,494129979,"Errors in file /hafs/diag/rdbms/dljydb/dljydb/trace/dljydb_ora_.trc  (incident=):
+ORA-: 内部错误代码, 参数: [kollasg:client lob on server], [], [], [], [], [], [], [], [], [], [], []
+Incident details in: /hafs/diag/rdbms/dljydb/dljydb/incident/incdir_/dljydb_ora__i.trc
+Use ADRCI or Support Workbench to package the incident.
+See Note . at My Oracle Support for error and packaging details.
+"
+20160830021944,494129984,"Sweep [inc][]: completed
+Sweep [inc][]: completed
+"
+20160830021944,494129984,"Dumping diagnostic data in directory=[cdmp_], requested by (instance=, osid=), summary=[incident=].
+"
+20160830022143,494130103,"Errors in file /hafs/diag/rdbms/dljydb/dljydb/trace/dljydb_ora_.trc  (incident=):
+ORA-: 内部错误代码, 参数: [kollasg:client lob on server], [], [], [], [], [], [], [], [], [], [], []
+Incident details in: /hafs/diag/rdbms/dljydb/dljydb/incident/incdir_/dljydb_ora__i.trc
+Use ADRCI or Support Workbench to package the incident.
+See Note . at My Oracle Support for error and packaging details.
+"
+20160830022147,494130107,"Sweep [inc][]: completed
+Sweep [inc][]: completed
+"
+20160830022148,494130108,"Dumping diagnostic data in directory=[cdmp_], requested by (instance=, osid=), summary=[incident=].
+"
+20160830022733,494130453,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830022737,494130457,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830022737,494130457,"ALTER SYSTEM ARCHIVE LOG
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830022941,494130581,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160830023001,494130601,"Errors in file /hafs/diag/rdbms/dljydb/dljydb/trace/dljydb_j_.trc:
+ORA-: 自动执行作业 ""SGBIZ"".""PKG_EM_STAT_HOUR_JOB"" 出错
+ORA-: 在重新编�?重新验证 SGBIZ.PKG_EM_STAT 时出�?
+ORA-: 在查找远程对�?HXSJ.EM_INFENVDATA@DLSC_HXSJ 时出�?
+ORA-: 递归 SQL 级别  出现错误
+ORA-: invalid username/password; logon denied
+ORA-: 紧接着 line (起自 DLSC_HXSJ)
+"
+20160830023752,494131072,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830023755,494131075,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830023951,494131191,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160830024034,494131234,"Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830024034,494131234,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830024401,494131441,"Errors in file /hafs/diag/rdbms/dljydb/dljydb/trace/dljydb_j_.trc:
+ORA-: 自动执行作业 ""SGBIZ"".""PKG_EM_CALC_JOB"" 出错
+ORA-: 未执�? package body ""SGBIZ.PKG_EM_CALC"" 不存�?
+ORA-: PL/SQL: 无法找到正在调用 : ""SGBIZ.PKG_EM_CALC"" 的程序单�?
+ORA-: �?line 
+Errors in file /hafs/diag/rdbms/dljydb/dljydb/trace/dljydb_j_.trc:
+ORA-: 自动执行作业 ""SGBIZ"".""PKG_EM_STAT_DAY_JOB"" 出错
+ORA-: 在重新编�?重新验证 SGBIZ.PKG_EM_STAT 时出�?
+ORA-: 在查找远程对�?HXSJ.EM_INFENVDATA@DLSC_HXSJ 时出�?
+ORA-: 递归 SQL 级别  出现错误
+ORA-: invalid username/password; logon denied
+ORA-: 紧接着 line (起自 DLSC_HXSJ)
+"
+20160830024507,494131507,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830024510,494131510,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830024959,494131799,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160830025449,494132089,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830025453,494132093,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830030004,494132404,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160830030340,494132620,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830030344,494132624,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830030534,494132734,"Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830030534,494132734,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830031019,494133019,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160830031201,494133121,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830031205,494133125,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830032049,494133649,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160830032219,494133739,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830032223,494133743,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830033001,494134201,"Errors in file /hafs/diag/rdbms/dljydb/dljydb/trace/dljydb_j_.trc:
+ORA-: 自动执行作业 ""SGBIZ"".""PKG_EM_STAT_HOUR_JOB"" 出错
+ORA-: 在重新编�?重新验证 SGBIZ.PKG_EM_STAT 时出�?
+ORA-: 在查找远程对�?HXSJ.EM_INFENVDATA@DLSC_HXSJ 时出�?
+ORA-: 递归 SQL 级别  出现错误
+ORA-: invalid username/password; logon denied
+ORA-: 紧接着 line (起自 DLSC_HXSJ)
+"
+20160830033030,494134230,"Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830033032,494134232,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830033041,494134241,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830033108,494134268,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160830033441,494134481,"Errors in file /hafs/diag/rdbms/dljydb/dljydb/trace/dljydb_ora_.trc  (incident=):
+ORA-: 内部错误代码, 参数: [kollasg:client lob on server], [], [], [], [], [], [], [], [], [], [], []
+Incident details in: /hafs/diag/rdbms/dljydb/dljydb/incident/incdir_/dljydb_ora__i.trc
+"
+20160830033505,494134505,"Use ADRCI or Support Workbench to package the incident.
+See Note . at My Oracle Support for error and packaging details.
+"
+20160830033505,494134505,"Sweep [inc][]: completed
+Sweep [inc][]: completed
+"
+20160830033506,494134506,"Dumping diagnostic data in directory=[cdmp_], requested by (instance=, osid=), summary=[incident=].
+"
+20160830033958,494134798,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830034003,494134803,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830034128,494134888,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160830034929,494135369,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830034932,494135372,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830035148,494135508,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160830035507,494135707,"Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830035508,494135708,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830035726,494135846,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830035729,494135849,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830040215,494136135,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160830040656,494136416,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830040659,494136419,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830040928,494136568,"Errors in file /hafs/diag/rdbms/dljydb/dljydb/trace/dljydb_ora_.trc  (incident=):
+ORA-: 内部错误代码, 参数: [kollasg:client lob on server], [], [], [], [], [], [], [], [], [], [], []
+Incident details in: /hafs/diag/rdbms/dljydb/dljydb/incident/incdir_/dljydb_ora__i.trc
+Use ADRCI or Support Workbench to package the incident.
+See Note . at My Oracle Support for error and packaging details.
+"
+20160830040933,494136573,"Sweep [inc][]: completed
+Sweep [inc][]: completed
+"
+20160830040933,494136573,"Dumping diagnostic data in directory=[cdmp_], requested by (instance=, osid=), summary=[incident=].
+"
+20160830041228,494136748,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160830041720,494137040,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830041724,494137044,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830041948,494137188,"Errors in file /hafs/diag/rdbms/dljydb/dljydb/trace/dljydb_ora_.trc  (incident=):
+ORA-: 内部错误代码, 参数: [kollasg:client lob on server], [], [], [], [], [], [], [], [], [], [], []
+Incident details in: /hafs/diag/rdbms/dljydb/dljydb/incident/incdir_/dljydb_ora__i.trc
+Use ADRCI or Support Workbench to package the incident.
+See Note . at My Oracle Support for error and packaging details.
+"
+20160830041952,494137192,"Sweep [inc][]: completed
+Sweep [inc][]: completed
+"
+20160830041953,494137193,"Dumping diagnostic data in directory=[cdmp_], requested by (instance=, osid=), summary=[incident=].
+"
+20160830042030,494137230,"Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830042031,494137231,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830042233,494137353,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160830042518,494137518,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830042521,494137521,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830042924,494137764,"Errors in file /hafs/diag/rdbms/dljydb/dljydb/trace/dljydb_ora_.trc  (incident=):
+ORA-: 内部错误代码, 参数: [kollasg:client lob on server], [], [], [], [], [], [], [], [], [], [], []
+Incident details in: /hafs/diag/rdbms/dljydb/dljydb/incident/incdir_/dljydb_ora__i.trc
+Use ADRCI or Support Workbench to package the incident.
+See Note . at My Oracle Support for error and packaging details.
+"
+20160830042928,494137768,"Sweep [inc][]: completed
+Sweep [inc][]: completed
+"
+20160830042928,494137768,"Dumping diagnostic data in directory=[cdmp_], requested by (instance=, osid=), summary=[incident=].
+"
+20160830043001,494137801,"Errors in file /hafs/diag/rdbms/dljydb/dljydb/trace/dljydb_j_.trc:
+ORA-: 自动执行作业 ""SGBIZ"".""PKG_EM_STAT_HOUR_JOB"" 出错
+ORA-: 在重新编�?重新验证 SGBIZ.PKG_EM_STAT 时出�?
+ORA-: 在查找远程对�?HXSJ.EM_INFENVDATA@DLSC_HXSJ 时出�?
+ORA-: 递归 SQL 级别  出现错误
+ORA-: invalid username/password; logon denied
+ORA-: 紧接着 line (起自 DLSC_HXSJ)
+"
+20160830043035,494137835,"Errors in file /hafs/diag/rdbms/dljydb/dljydb/trace/dljydb_ora_.trc  (incident=):
+ORA-: 内部错误代码, 参数: [kollasg:client lob on server], [], [], [], [], [], [], [], [], [], [], []
+Incident details in: /hafs/diag/rdbms/dljydb/dljydb/incident/incdir_/dljydb_ora__i.trc
+Use ADRCI or Support Workbench to package the incident.
+See Note . at My Oracle Support for error and packaging details.
+"
+20160830043039,494137839,"Sweep [inc][]: completed
+Sweep [inc][]: completed
+"
+20160830043039,494137839,"Dumping diagnostic data in directory=[cdmp_], requested by (instance=, osid=), summary=[incident=].
+"
+20160830043255,494137975,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160830043521,494138121,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830043525,494138125,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830043820,494138300,"Errors in file /hafs/diag/rdbms/dljydb/dljydb/trace/dljydb_ora_.trc  (incident=):
+ORA-: 内部错误代码, 参数: [kollasg:client lob on server], [], [], [], [], [], [], [], [], [], [], []
+Incident details in: /hafs/diag/rdbms/dljydb/dljydb/incident/incdir_/dljydb_ora__i.trc
+Use ADRCI or Support Workbench to package the incident.
+See Note . at My Oracle Support for error and packaging details.
+"
+20160830043824,494138304,"Sweep [inc][]: completed
+Sweep [inc][]: completed
+"
+20160830043825,494138305,"Dumping diagnostic data in directory=[cdmp_], requested by (instance=, osid=), summary=[incident=].
+"
+20160830044150,494138510,"Errors in file /hafs/diag/rdbms/dljydb/dljydb/trace/dljydb_ora_.trc  (incident=):
+ORA-: 内部错误代码, 参数: [kollasg:client lob on server], [], [], [], [], [], [], [], [], [], [], []
+Incident details in: /hafs/diag/rdbms/dljydb/dljydb/incident/incdir_/dljydb_ora__i.trc
+Use ADRCI or Support Workbench to package the incident.
+See Note . at My Oracle Support for error and packaging details.
+"
+20160830044155,494138515,"Sweep [inc][]: completed
+Sweep [inc][]: completed
+"
+20160830044156,494138516,"Dumping diagnostic data in directory=[cdmp_], requested by (instance=, osid=), summary=[incident=].
+"
+20160830044307,494138587,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160830044439,494138679,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830044443,494138683,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830044529,494138729,"Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830044529,494138729,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830045258,494139178,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830045302,494139182,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830045342,494139222,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160830050243,494139763,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830050247,494139767,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830050412,494139852,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160830051027,494140227,"Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830051028,494140228,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830051049,494140249,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830051053,494140253,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830051441,494140481,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160830052040,494140840,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830052044,494140844,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830052447,494141087,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160830053001,494141401,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830053001,494141401,"Errors in file /hafs/diag/rdbms/dljydb/dljydb/trace/dljydb_j_.trc:
+ORA-: 自动执行作业 ""SGBIZ"".""PKG_EM_STAT_HOUR_JOB"" 出错
+ORA-: 在重新编�?重新验证 SGBIZ.PKG_EM_STAT 时出�?
+ORA-: 在查找远程对�?HXSJ.EM_INFENVDATA@DLSC_HXSJ 时出�?
+ORA-: 递归 SQL 级别  出现错误
+ORA-: invalid username/password; logon denied
+ORA-: 紧接着 line (起自 DLSC_HXSJ)
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830053005,494141405,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830053509,494141709,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160830053528,494141728,"Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830053529,494141729,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830053755,494141875,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830053759,494141879,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830054535,494142335,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160830054734,494142454,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830054738,494142458,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830054825,494142505,"Errors in file /hafs/diag/rdbms/dljydb/dljydb/trace/dljydb_ora_.trc  (incident=):
+ORA-: 内部错误代码, 参数: [kollasg:client lob on server], [], [], [], [], [], [], [], [], [], [], []
+Incident details in: /hafs/diag/rdbms/dljydb/dljydb/incident/incdir_/dljydb_ora__i.trc
+"
+20160830054848,494142528,"Use ADRCI or Support Workbench to package the incident.
+See Note . at My Oracle Support for error and packaging details.
+"
+20160830054848,494142528,"Sweep [inc][]: completed
+Sweep [inc][]: completed
+"
+20160830054849,494142529,"Dumping diagnostic data in directory=[cdmp_], requested by (instance=, osid=), summary=[incident=].
+"
+20160830055545,494142945,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160830055752,494143072,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830055756,494143076,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830060004,494143204,"Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830060005,494143205,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830060437,494143477,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830060441,494143481,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830060551,494143551,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160830061501,494144101,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830061506,494144106,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830061617,494144177,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160830061851,494144331,"Errors in file /hafs/diag/rdbms/dljydb/dljydb/trace/dljydb_ora_.trc  (incident=):
+ORA-: 内部错误代码, 参数: [kollasg:client lob on server], [], [], [], [], [], [], [], [], [], [], []
+Incident details in: /hafs/diag/rdbms/dljydb/dljydb/incident/incdir_/dljydb_ora__i.trc
+"
+20160830061855,494144335,"Dumping diagnostic data in directory=[cdmp_], requested by (instance=, osid=), summary=[incident=].
+Use ADRCI or Support Workbench to package the incident.
+See Note . at My Oracle Support for error and packaging details.
+"
+20160830061855,494144335,"Sweep [inc][]: completed
+Sweep [inc][]: completed
+"
+20160830062358,494144638,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830062402,494144642,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830062534,494144734,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830062537,494144737,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830062651,494144811,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160830062721,494144841,"Errors in file /hafs/diag/rdbms/dljydb/dljydb/trace/dljydb_ora_.trc  (incident=):
+ORA-: 内部错误代码, 参数: [kollasg:client lob on server], [], [], [], [], [], [], [], [], [], [], []
+Incident details in: /hafs/diag/rdbms/dljydb/dljydb/incident/incdir_/dljydb_ora__i.trc
+Use ADRCI or Support Workbench to package the incident.
+See Note . at My Oracle Support for error and packaging details.
+"
+20160830062725,494144845,"Dumping diagnostic data in directory=[cdmp_], requested by (instance=, osid=), summary=[incident=].
+"
+20160830062726,494144846,"Sweep [inc][]: completed
+Sweep [inc][]: completed
+"
+20160830063002,494145002,"Errors in file /hafs/diag/rdbms/dljydb/dljydb/trace/dljydb_j_.trc:
+ORA-: 自动执行作业 ""SGBIZ"".""PKG_EM_STAT_HOUR_JOB"" 出错
+ORA-: 在重新编�?重新验证 SGBIZ.PKG_EM_STAT 时出�?
+ORA-: 在查找远程对�?HXSJ.EM_INFENVDATA@DLSC_HXSJ 时出�?
+ORA-: 递归 SQL 级别  出现错误
+ORA-: invalid username/password; logon denied
+ORA-: 紧接着 line (起自 DLSC_HXSJ)
+"
+20160830063103,494145063,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830063107,494145067,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830063715,494145435,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160830064113,494145673,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830064117,494145677,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830064746,494146066,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160830064946,494146186,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830064950,494146190,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830065032,494146232,"Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830065033,494146233,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830065755,494146675,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160830065810,494146690,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830065814,494146694,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830070349,494147029,"Errors in file /hafs/diag/rdbms/dljydb/dljydb/trace/dljydb_ora_.trc  (incident=):
+ORA-: 内部错误代码, 参数: [kollasg:client lob on server], [], [], [], [], [], [], [], [], [], [], []
+Incident details in: /hafs/diag/rdbms/dljydb/dljydb/incident/incdir_/dljydb_ora__i.trc
+Use ADRCI or Support Workbench to package the incident.
+See Note . at My Oracle Support for error and packaging details.
+"
+20160830070353,494147033,"Sweep [inc][]: completed
+Sweep [inc][]: completed
+"
+20160830070353,494147033,"Dumping diagnostic data in directory=[cdmp_], requested by (instance=, osid=), summary=[incident=].
+"
+20160830070707,494147227,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830070711,494147231,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830070835,494147315,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160830071524,494147724,"Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830071525,494147725,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830071601,494147761,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830071605,494147765,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830071846,494147926,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160830072516,494148316,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830072520,494148320,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830072855,494148535,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160830073002,494148602,"Errors in file /hafs/diag/rdbms/dljydb/dljydb/trace/dljydb_j_.trc:
+ORA-: 自动执行作业 ""SGBIZ"".""PKG_EM_STAT_HOUR_JOB"" 出错
+ORA-: 在重新编�?重新验证 SGBIZ.PKG_EM_STAT 时出�?
+ORA-: 在查找远程对�?HXSJ.EM_INFENVDATA@DLSC_HXSJ 时出�?
+ORA-: 递归 SQL 级别  出现错误
+ORA-: invalid username/password; logon denied
+ORA-: 紧接着 line (起自 DLSC_HXSJ)
+"
+20160830073549,494148949,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830073553,494148953,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830073912,494149152,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160830074032,494149232,"Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830074033,494149233,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830074434,494149474,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830074438,494149478,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830074935,494149775,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160830075332,494150012,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830075337,494150017,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830075948,494150388,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160830080005,494150405,"ALTER SYSTEM ARCHIVE LOG
+"
+20160830080005,494150405,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830080537,494150737,"Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830080538,494150738,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830080759,494150879,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830080803,494150883,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830081000,494151000,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160830081739,494151459,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830081743,494151463,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830082036,494151636,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160830082743,494152063,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830082746,494152066,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830083001,494152201,"Errors in file /hafs/diag/rdbms/dljydb/dljydb/trace/dljydb_j_.trc:
+ORA-: 自动执行作业 ""SGBIZ"".""PKG_EM_STAT_HOUR_JOB"" 出错
+ORA-: 在重新编�?重新验证 SGBIZ.PKG_EM_STAT 时出�?
+ORA-: 在查找远程对�?HXSJ.EM_INFENVDATA@DLSC_HXSJ 时出�?
+ORA-: 递归 SQL 级别  出现错误
+ORA-: invalid username/password; logon denied
+ORA-: 紧接着 line (起自 DLSC_HXSJ)
+"
+20160830083045,494152245,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160830083115,494152275,"Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830083116,494152276,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830083555,494152555,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830083559,494152559,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830084053,494152853,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160830084211,494152931,"Errors in file /hafs/diag/rdbms/dljydb/dljydb/trace/dljydb_ora_.trc  (incident=):
+ORA-: 内部错误代码, 参数: [kollasg:client lob on server], [], [], [], [], [], [], [], [], [], [], []
+Incident details in: /hafs/diag/rdbms/dljydb/dljydb/incident/incdir_/dljydb_ora__i.trc
+"
+20160830084231,494152951,"Use ADRCI or Support Workbench to package the incident.
+See Note . at My Oracle Support for error and packaging details.
+"
+20160830084231,494152951,"Sweep [inc][]: completed
+Sweep [inc][]: completed
+"
+20160830084231,494152951,"Dumping diagnostic data in directory=[cdmp_], requested by (instance=, osid=), summary=[incident=].
+"
+20160830084543,494153143,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830084547,494153147,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830085113,494153473,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160830085614,494153774,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830085619,494153779,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830085635,494153795,"Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830085636,494153796,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830090214,494154134,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160830090416,494154256,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830090420,494154260,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830091218,494154738,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160830091425,494154865,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830091429,494154869,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830092037,494155237,"Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830092038,494155238,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830092153,494155313,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830092156,494155316,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830092219,494155339,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160830093001,494155801,"Errors in file /hafs/diag/rdbms/dljydb/dljydb/trace/dljydb_j_.trc:
+ORA-: 自动执行作业 ""SGBIZ"".""PKG_EM_STAT_HOUR_JOB"" 出错
+ORA-: 在重新编�?重新验证 SGBIZ.PKG_EM_STAT 时出�?
+ORA-: 在查找远程对�?HXSJ.EM_INFENVDATA@DLSC_HXSJ 时出�?
+ORA-: 递归 SQL 级别  出现错误
+ORA-: invalid username/password; logon denied
+ORA-: 紧接着 line (起自 DLSC_HXSJ)
+"
+20160830093117,494155877,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830093120,494155880,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830093308,494155988,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160830094117,494156477,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830094121,494156481,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830094355,494156635,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160830094542,494156742,"Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830094543,494156743,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830094926,494156966,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830094929,494156969,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830095408,494157248,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160830095410,494157250,"Errors in file /hafs/diag/rdbms/dljydb/dljydb/trace/dljydb_ora_.trc  (incident=):
+ORA-: 内部错误代码, 参数: [kollasg:client lob on server], [], [], [], [], [], [], [], [], [], [], []
+Incident details in: /hafs/diag/rdbms/dljydb/dljydb/incident/incdir_/dljydb_ora__i.trc
+Use ADRCI or Support Workbench to package the incident.
+See Note . at My Oracle Support for error and packaging details.
+"
+20160830095414,494157254,"Sweep [inc][]: completed
+Sweep [inc][]: completed
+"
+20160830095415,494157255,"Dumping diagnostic data in directory=[cdmp_], requested by (instance=, osid=), summary=[incident=].
+"
+20160830095837,494157517,"Errors in file /hafs/diag/rdbms/dljydb/dljydb/trace/dljydb_ora_.trc  (incident=):
+ORA-: 内部错误代码, 参数: [kollasg:client lob on server], [], [], [], [], [], [], [], [], [], [], []
+Incident details in: /hafs/diag/rdbms/dljydb/dljydb/incident/incdir_/dljydb_ora__i.trc
+Use ADRCI or Support Workbench to package the incident.
+See Note . at My Oracle Support for error and packaging details.
+"
+20160830095841,494157521,"Sweep [inc][]: completed
+Sweep [inc][]: completed
+"
+20160830095842,494157522,"Dumping diagnostic data in directory=[cdmp_], requested by (instance=, osid=), summary=[incident=].
+"
+20160830095920,494157560,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830095924,494157564,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830100412,494157852,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160830100838,494158118,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830100842,494158122,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830101102,494158262,"Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830101103,494158263,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830101425,494158465,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160830101723,494158643,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830101727,494158647,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830102430,494159070,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160830102715,494159235,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830102719,494159239,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830103001,494159401,"Errors in file /hafs/diag/rdbms/dljydb/dljydb/trace/dljydb_j_.trc:
+ORA-: 自动执行作业 ""SGBIZ"".""PKG_EM_STAT_HOUR_JOB"" 出错
+ORA-: 在重新编�?重新验证 SGBIZ.PKG_EM_STAT 时出�?
+ORA-: 在查找远程对�?HXSJ.EM_INFENVDATA@DLSC_HXSJ 时出�?
+ORA-: 递归 SQL 级别  出现错误
+ORA-: invalid username/password; logon denied
+ORA-: 紧接着 line (起自 DLSC_HXSJ)
+"
+20160830103438,494159678,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160830103538,494159738,"Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830103540,494159740,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830103549,494159749,"Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830103550,494159750,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830104445,494160285,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160830104601,494160361,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830104605,494160365,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830104622,494160382,"Errors in file /hafs/diag/rdbms/dljydb/dljydb/trace/dljydb_ora_.trc  (incident=):
+ORA-: 内部错误代码, 参数: [kollasg:client lob on server], [], [], [], [], [], [], [], [], [], [], []
+Incident details in: /hafs/diag/rdbms/dljydb/dljydb/incident/incdir_/dljydb_ora__i.trc
+"
+20160830104645,494160405,"Use ADRCI or Support Workbench to package the incident.
+See Note . at My Oracle Support for error and packaging details.
+"
+20160830104645,494160405,"Sweep [inc][]: completed
+Sweep [inc][]: completed
+"
+20160830104646,494160406,"Dumping diagnostic data in directory=[cdmp_], requested by (instance=, osid=), summary=[incident=].
+"
+20160830105455,494160895,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160830105616,494160976,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830105620,494160980,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830110044,494161244,"Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830110045,494161245,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830110344,494161424,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830110347,494161427,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830110511,494161511,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160830111402,494162042,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830111406,494162046,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830111517,494162117,"Errors in file /hafs/diag/rdbms/dljydb/dljydb/trace/dljydb_ora_.trc  (incident=):
+ORA-: 内部错误代码, 参数: [kollasg:client lob on server], [], [], [], [], [], [], [], [], [], [], []
+Incident details in: /hafs/diag/rdbms/dljydb/dljydb/incident/incdir_/dljydb_ora__i.trc
+Use ADRCI or Support Workbench to package the incident.
+See Note . at My Oracle Support for error and packaging details.
+"
+20160830111521,494162121,"Sweep [inc][]: completed
+Sweep [inc][]: completed
+"
+20160830111522,494162122,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160830111522,494162122,"Dumping diagnostic data in directory=[cdmp_], requested by (instance=, osid=), summary=[incident=].
+"
+20160830112341,494162621,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830112344,494162624,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830112528,494162728,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160830112544,494162744,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830112546,494162746,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830113001,494163001,"Errors in file /hafs/diag/rdbms/dljydb/dljydb/trace/dljydb_j_.trc:
+ORA-: 自动执行作业 ""SGBIZ"".""PKG_EM_STAT_HOUR_JOB"" 出错
+ORA-: 在重新编�?重新验证 SGBIZ.PKG_EM_STAT 时出�?
+ORA-: 在查找远程对�?HXSJ.EM_INFENVDATA@DLSC_HXSJ 时出�?
+ORA-: 递归 SQL 级别  出现错误
+ORA-: invalid username/password; logon denied
+ORA-: 紧接着 line (起自 DLSC_HXSJ)
+"
+20160830113208,494163128,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830113211,494163131,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830113449,494163289,"Errors in file /hafs/diag/rdbms/dljydb/dljydb/trace/dljydb_ora_.trc  (incident=):
+ORA-: 内部错误代码, 参数: [kollasg:client lob on server], [], [], [], [], [], [], [], [], [], [], []
+Use ADRCI or Support Workbench to package the incident.
+See Note . at My Oracle Support for error and packaging details.
+"
+20160830113452,494163292,"Sweep [inc][]: completed
+"
+20160830113533,494163333,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160830113712,494163432,"Errors in file /hafs/diag/rdbms/dljydb/dljydb/trace/dljydb_ora_.trc  (incident=):
+ORA-: 内部错误代码, 参数: [kollasg:client lob on server], [], [], [], [], [], [], [], [], [], [], []
+Use ADRCI or Support Workbench to package the incident.
+See Note . at My Oracle Support for error and packaging details.
+"
+20160830113713,494163433,"Sweep [inc][]: completed
+"
+20160830114419,494163859,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830114537,494163937,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830114540,494163940,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160830115028,494164228,"Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830115029,494164229,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830115207,494164327,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830115211,494164331,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830115542,494164542,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160830120005,494164805,"ALTER SYSTEM ARCHIVE LOG
+"
+20160830120005,494164805,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830120553,494165153,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160830120901,494165341,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830120905,494165345,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830121555,494165755,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160830121613,494165773,"Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830121617,494165777,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830121727,494165847,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830121730,494165850,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830122551,494166351,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830122555,494166355,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830122601,494166361,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160830122606,494166366,"Errors in file /hafs/diag/rdbms/dljydb/dljydb/trace/dljydb_ora_.trc  (incident=):
+ORA-: 内部错误代码, 参数: [kollasg:client lob on server], [], [], [], [], [], [], [], [], [], [], []
+Use ADRCI or Support Workbench to package the incident.
+See Note . at My Oracle Support for error and packaging details.
+"
+20160830122609,494166369,"Sweep [inc][]: completed
+"
+20160830123001,494166601,"Errors in file /hafs/diag/rdbms/dljydb/dljydb/trace/dljydb_j_.trc:
+ORA-: 自动执行作业 ""SGBIZ"".""PKG_EM_STAT_HOUR_JOB"" 出错
+ORA-: 在重新编�?重新验证 SGBIZ.PKG_EM_STAT 时出�?
+ORA-: 在查找远程对�?HXSJ.EM_INFENVDATA@DLSC_HXSJ 时出�?
+ORA-: 递归 SQL 级别  出现错误
+ORA-: invalid username/password; logon denied
+ORA-: 紧接着 line (起自 DLSC_HXSJ)
+"
+20160830123604,494166964,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830123607,494166967,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830123638,494166998,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160830123826,494167106,"Errors in file /hafs/diag/rdbms/dljydb/dljydb/trace/dljydb_ora_.trc  (incident=):
+ORA-: 内部错误代码, 参数: [kollasg:client lob on server], [], [], [], [], [], [], [], [], [], [], []
+Use ADRCI or Support Workbench to package the incident.
+See Note . at My Oracle Support for error and packaging details.
+"
+20160830123828,494167108,"Sweep [inc][]: completed
+"
+20160830124320,494167400,"Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830124321,494167401,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830124413,494167453,"Thread  cannot allocate new log, sequence 
+Private strand flush not complete
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+Thread  advanced to log sequence  (LGWR switch)
+  Current log#  seq#  mem# : /hafs/oradata/dljydb/redo.log
+"
+20160830124417,494167457,"Archived Log entry  added for thread  sequence  ID xfffffffffebec dest :
+"
+20160830124705,494167625,"DDE: Problem Key 'ORA  [kollasg:client-side tmp lob]' was completely flood controlled (x)
+Further messages for this problem key will be suppressed for up to  minutes
+"
+20160830125143,494167903,"Errors in file /hafs/diag/rdbms/dljydb/dljydb/trace/dljydb_ora_.trc  (incident=):
+ORA-: 内部错误代码, 参数: [kollasg:client lob on server], [], [], [], [], [], [], [], [], [], [], []
+Use ADRCI or Support Workbench to package the incident.
+See Note . at My Oracle Support for error and packaging details.
+"
+20160830125144,494167904,"Sweep [inc][]: completed
+"
