@@ -38,7 +38,7 @@ log_indices = dict((c, i) for i, c in enumerate(logdict))
 indices_log = dict((i, c) for i, c in enumerate(logdict))
 
 time_len = 12*3600#half a day for training
-time_future = 1.*3600 #predict 6 hours in future
+time_future = 0.17*3600 #predict 6 hours in future
 timestep = 0
 #for i in range(len(abstime)):
 #    count = 0
@@ -70,28 +70,28 @@ encoder_outputs, state_h, state_c = LSTM(1024, return_state=True)(encoder_inputs
 encoder_states = keras.layers.concatenate([state_h, state_c])
 #print(encoder_states.get_shape())
 x = Reshape((1024, 2))(encoder_states)
-print (x.get_shape())
+#print (x.get_shape())
 
-x = Conv1D(32, 5, strides=2, padding='same')(x)
+x = Conv1D(64, 5, strides=2, padding='valid')(x)
 x = BatchNormalization()(x)
 x = Activation('relu')(x)
 #print (x.get_shape())
 #x = Dropout(0.2)(x)
 #print (x.get_shape())
 
-#x = Conv1D(512, 5, strides=4, padding='same')(x)
-#x = Activation('relu')(x)
+x = Conv1D(64, 5, strides=4, padding='valid')(x)
+x = Activation('relu')(x)
 #x = Dropout(0.2)(x)
 #print (x.get_shape())
 
-#x = Conv1D(512, 5, strides=2, padding='same')(x)
+#x = Conv1D(32, 5, strides=2, padding='valid')(x)
 #x = BatchNormalization()(x)
 #x = Activation('relu')(x)
 #x = Dropout(0.2)(x)
 
-x = Conv1D(64, 5, strides=2, padding='same')(x)
-x = BatchNormalization()(x)
-x = Activation('relu')(x)
+#x = Conv1D(32, 5, strides=2, padding='valid')(x)
+#x = BatchNormalization()(x)
+#x = Activation('relu')(x)
 #x = Dropout(0.2)(x)
 
 x = GlobalMaxPooling1D()(x)
@@ -101,7 +101,7 @@ x = GlobalMaxPooling1D()(x)
 predictions = Dense(2, activation='softmax')(x)
 
 model = Model(encoder_inputs, predictions)
-model.compile(optimizer='Nadam', loss='binary_crossentropy')
+model.compile(optimizer='Nadam', metrics=['accuracy'],loss='binary_crossentropy')
 
 def generate_train(batch_size):
     while True:
@@ -114,7 +114,8 @@ def generate_train(batch_size):
                     (batch_size, 2),
                     dtype='float32')
             for m in range(batch_size):
-                log_idx = i*batch_size+m
+                log_idx = np.random.randint(0,train_num)
+                #log_idx = i*batch_size+m
                 logstr = logstrs[log_idx]
                 x[m, 0, log_indices[logstr]] = 1.
                 for j in range(log_idx+1, len(logstrs)):
@@ -191,7 +192,7 @@ batch_print_callback = LambdaCallback(on_batch_end=prt)
 
 tensorboard = TensorBoard(log_dir='./results/logs')
 csv_logger = CSVLogger('./results/epoch_perf.log')
-es = EarlyStopping(monitor='val_loss', mode='auto',patience=10)
+es = EarlyStopping(monitor='val_loss', mode='auto',patience=6)
 
 his = model.fit_generator(generator=generate_train(batch_size),
         steps_per_epoch=int(train_num/batch_size),
@@ -226,25 +227,27 @@ text_y = np.zeros(
     dtype='float32')
 
 for i in range(train_num+val_num, train_num+val_num+test_num):
+    test_idx = i-train_num+val_num
     logstr = logstrs[i]
-    test_x[i, 0, log_indices[logstr]] = 1.
+    test_x[test_idx, 0, log_indices[logstr]] = 1.
     for j in range(i+1, len(logstrs)):
         if abstime[j]-abstime[i]<time_len:
             logstr = logstrs[j]
             if (j-i)>(timestep-1):
                 break
-            test_x[i, j-i, log_indices[logstr]] = 1.
+            test_x[text_idx, j-i, log_indices[logstr]] = 1.
         else:
             break
+    tmp_str = ''
     for k in range(j+1, len(logstrs)):
         if abstime[k]-abstime[j]<time_future:
-            if logstrs[k].upper().find('ERROR')!=-1:
-                test_y[i, 1] = 1.
-                break
+            tmp_str += logstrs[k]
         else:
             break
-    y[i,0] = 1-y[i,1]
-    
+    if tmp_str.upper().find('ERROR')!=-1:
+        y[m, 1] = 1.
+    y[m,0] = 1-y[m,1]
+
 y_ = model.predict(test_x)
 print ('true:')
 print (text_y[:50])
