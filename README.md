@@ -4,19 +4,19 @@ This project proposes a new deeplearning model, lstm+cnn, for oracle alert log p
 
 1.preprocessing: original logs to sequences file
 
-python genlogstr.py
+    python genlogstr.py
 
-modify logfir to your own
+    modify logfir to your own
 
 
 2.preprocessing: remove switch logs
 
-python feature.py
+    python feature.py
 
 
 3.train model
 
-python lstmseq.py
+    python lstmseq.py
 
 
 Wtih my own oracle alert logs, the accuracy of predicting error log is 91.3%.
