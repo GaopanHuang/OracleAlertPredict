@@ -6,7 +6,7 @@ This project proposes a new deeplearning model, lstm+cnn, for oracle alert log p
 
     python genlogstr.py
 
-    modify logfir to your own
+  modify logfir to your own
 
 
 2.preprocessing: remove switch logs
